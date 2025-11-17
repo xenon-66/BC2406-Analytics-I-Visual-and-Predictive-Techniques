@@ -45,4 +45,5 @@ Performance Metrics
 | Recall    | 88.6%   |
 
 ## 👥 Group Project: Diabetes Risk Prediction
-Objective: Build predictive analytics models to assess diabetes risk factors and predict patient outcomes
+### Objective:
+Build predictive analytics models to assess diabetes risk factors and predict patient outcomes
