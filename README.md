@@ -27,13 +27,13 @@ Develop a predictive model to identify and classify misinformation in digital co
 
 ### CART Model:
 
-Confusion Matrix
+**Confusion Matrix**
 |                | Predicted Positive | Predicted Negative |
 |----------------|-----------------|-----------------|
 | **Actual Positive** | 62 (TP)        | 8 (FN)          |
 | **Actual Negative** | 0 (FP)         | 80 (TN)         |
 
-Performance Metrics
+**Performance Metrics**
 | Metric    | Value   |
 |-----------|---------|
 | Accuracy  | 94.7%   |
