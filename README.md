@@ -22,8 +22,8 @@ Develop a predictive model to identify and classify misinformation in digital co
 | Metric    | Value   |
 |-----------|---------|
 | Accuracy  | 92.0%   |
-| Precision | 91.4%   |
-| Recall    | 91.4%   |
+| Precision | 92.5%   |
+| Recall    | 92.5%   |
 
 ### CART Model:
 
@@ -37,5 +37,5 @@ Develop a predictive model to identify and classify misinformation in digital co
 | Metric    | Value   |
 |-----------|---------|
 | Accuracy  | 94.7%   |
-| Precision | 100.0%    |
-| Recall    | 88.6%   |
+| Precision | 90.9%   |
+| Recall    | 100.0%  |
